@@ -38,3 +38,6 @@ img{
 .price{
   align-self: flex-start;
 }
+.cart{
+  align-self: flex-end;
+}
