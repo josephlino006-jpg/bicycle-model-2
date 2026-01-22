@@ -20,3 +20,12 @@ section{
   flex-direction: column;
   gap: 2rem 0;
 }
+img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+
+}
+.price,.cart{
+  font-weight: bold;
+}
