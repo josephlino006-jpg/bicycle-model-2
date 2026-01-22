@@ -28,4 +28,10 @@ img{
 }
 .price,.cart{
   font-weight: bold;
+  color: white;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  background-color: #0093ab;
+  font-size: 1.5rem;
+  text-decoration: none;
 }
